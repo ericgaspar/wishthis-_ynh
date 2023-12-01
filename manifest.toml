@@ -4,12 +4,12 @@ packaging_format = 2
 
 id = "wishthis"
 name = "Wishthis"
-description.en = "wishlist platform to create, manage and view your wishes for any kind of occasion"
-description.fr = "plateforme de listes de souhaits pour créer, gérer et visualiser vos souhaits pour tout type d'occasion"
+description.en = "Wishlist platform to create, manage and view your wishes for any kind of occasion"
+description.fr = "Plateforme de listes de souhaits pour créer, gérer et visualiser vos souhaits pour tout type d'occasion"
 
 version = "1.1.1~ynh1"
 
-maintainers = ["johndoe"]
+maintainers = ["eric_G"]
 
 [upstream]
 license = "AGPL-3.0"
