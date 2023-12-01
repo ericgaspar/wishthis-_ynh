@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+wishthis est une plateforme de liste de souhaits simple, intuitive et moderne pour créer, gérer et visualiser vos souhaits pour tout type d'occasion.

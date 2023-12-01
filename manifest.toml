@@ -56,12 +56,8 @@ ram.runtime = "50M"
 
     [resources.install_dir]
 
-    [resources.data_dir]
-
     [resources.permissions]
     main.url = "/"
-
-    [resources.ports]
 
     [resources.apt]
     packages = "mariadb-server, php8.2-intl"
